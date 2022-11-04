@@ -1,0 +1,19 @@
+.navbar {
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.card {
+    background-color: rgb(232, 229, 154);
+
+}
+
+h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin-left: 60px;
+}
